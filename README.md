@@ -9,11 +9,11 @@
 
 
 ## Includes:
-- [About me]
-- [Introduction]
-- [Process]
-- [Team member]
-- [Project]
+- [About me](#about-me)
+- [Introduction](#introduction)
+- [Process](#process)
+- [Team member](#team-member)
+- [Project](#project)
 
 ## About me
 - Name: Dương Đình Phương Dao
