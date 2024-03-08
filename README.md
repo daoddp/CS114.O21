@@ -1,5 +1,8 @@
  # <p align="center">CS114.O21 - Machine Learning</p>
-:rose: :cherry_blossom: :sunflower: :tulip: :hibiscus: :blossom:
+<p align="center">
+    :rose: :cherry_blossom: :sunflower: :tulip: :hibiscus: :blossom:
+</p>
+
 
 <p align="center">
   <a href="https://www.uit.edu.vn">
